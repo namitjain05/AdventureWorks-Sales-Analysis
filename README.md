@@ -19,7 +19,7 @@ The workflow highlights **Power Query, Power Pivot, and DAX** for building a sca
 ## 📂 Project Contents
 
 - `Project_Demo.mp4` → Screen recording of the full workflow  
-- `Raw_Data.xlsx` → Original dataset used (sample)  
+- `AdventureWorks.xlsx` → Original dataset used (sample)  
 - `Data_Model.xlsx` → Final Excel file with Power Query, Pivot, and DAX applied  
 
 ---
